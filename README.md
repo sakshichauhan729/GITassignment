@@ -1,1 +1,1 @@
-#GIT-33 README Conflict Assignment
+#README Conflict Assignment
